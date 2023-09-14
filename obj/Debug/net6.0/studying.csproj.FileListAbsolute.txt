@@ -1,0 +1,15 @@
+D:\vis\source\repos\studying\studying\bin\Debug\net6.0\studying.exe
+D:\vis\source\repos\studying\studying\bin\Debug\net6.0\studying.deps.json
+D:\vis\source\repos\studying\studying\bin\Debug\net6.0\studying.runtimeconfig.json
+D:\vis\source\repos\studying\studying\bin\Debug\net6.0\studying.dll
+D:\vis\source\repos\studying\studying\bin\Debug\net6.0\studying.pdb
+D:\vis\source\repos\studying\studying\obj\Debug\net6.0\studying.csproj.AssemblyReference.cache
+D:\vis\source\repos\studying\studying\obj\Debug\net6.0\studying.GeneratedMSBuildEditorConfig.editorconfig
+D:\vis\source\repos\studying\studying\obj\Debug\net6.0\studying.AssemblyInfoInputs.cache
+D:\vis\source\repos\studying\studying\obj\Debug\net6.0\studying.AssemblyInfo.cs
+D:\vis\source\repos\studying\studying\obj\Debug\net6.0\studying.csproj.CoreCompileInputs.cache
+D:\vis\source\repos\studying\studying\obj\Debug\net6.0\studying.dll
+D:\vis\source\repos\studying\studying\obj\Debug\net6.0\refint\studying.dll
+D:\vis\source\repos\studying\studying\obj\Debug\net6.0\studying.pdb
+D:\vis\source\repos\studying\studying\obj\Debug\net6.0\studying.genruntimeconfig.cache
+D:\vis\source\repos\studying\studying\obj\Debug\net6.0\ref\studying.dll
